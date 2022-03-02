@@ -3,10 +3,12 @@
   margin: 10px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   color: rgb(4, 4, 87);
+  font-size: 1.1rem;
 }
 h1 {
   text-align: center;
   color: rgb(90, 12, 29);
+  margin-bottom: 20px;
 }
 header {
   /*     width: 30%;
@@ -25,18 +27,18 @@ nav li {
   font-size: 1.3rem;
 }
 .intro {
-  height: 20vh;
-  float: left;
+  height: 35vh;
 }
 p {
   text-align: justify;
   padding-top: 15px;
+
 }
 .about{
-    float: right;
-}
-footer {
+    height: 60vh;
+}footer {
   clear: both;
   height: 10vh;
   margin-top: 40px;
+  margin-left: 30px;
 }
