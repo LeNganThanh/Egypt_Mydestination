@@ -31,7 +31,34 @@ p {
   padding-top: 15px;
 }
 .about {
-  height: 60vh;
+  height: 55vh;
+}
+section{
+    margin-right: 0px;
+}
+.text_right{
+    text-align: justify;
+    width: 45%;
+    display: inline-block;
+    height: 50vh;
+    margin-right: 0px;
+}
+section .text_left {
+    padding-top: 20px;
+    text-align: justify;
+    width: 50%;
+    display: inline-block;
+    height: 50vh;
+    margin-right: 0px;
+}
+.text_left p{
+    margin-right: 0px;
+}
+h2{
+    margin:0px;
+}
+section{
+    display: inline-block;
 }
 footer {
   clear: both;
